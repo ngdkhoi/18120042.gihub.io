@@ -85,7 +85,7 @@ small, big {
     position: relative;
 }
         .try-container .btn-try a.normal {
-            background: url(../images/images.jpg) no-repeat top left;
+            background: url(images/images.jpg) no-repeat top left;
             width: 500px;
             height: 110px;
             display: block;
@@ -340,4 +340,3 @@ small, big {
             #footer ul li a {
                 color: #1d1d1d;
             }
-
